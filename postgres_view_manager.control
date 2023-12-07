@@ -1,0 +1,5 @@
+# postgres_view_manager extension
+comment = "A dependency-aware view manager for Postgres."
+default_version = '0.0.1'
+relocatable = false
+superuser = false
